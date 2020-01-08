@@ -1,0 +1,9 @@
+{
+"process_name": "user_sign_up",
+"mysql": {
+       "host": "127.0.0.1",
+       "dbname": "users",
+       "user": "kilvish",
+       "pass": "kilvish123"
+}
+}
